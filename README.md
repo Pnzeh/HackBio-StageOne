@@ -1,2 +1,2 @@
 # HackBio-StageOne
-A vectorized R-based tool for calculating protein molecular weights (kDa) from primary sequences, featuring robust handling for non-canonical residues.
+A vectorised R function for calculating protein molecular weight (kDa). Features automated string normalisation, O(1) lookup efficiency, and robust error handling for non-protein characters.
